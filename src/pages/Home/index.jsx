@@ -1,5 +1,4 @@
 import styles from './Home.module.css'
-import imageFigure from '/image-1.svg'
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import { Link } from 'react-router-dom'
