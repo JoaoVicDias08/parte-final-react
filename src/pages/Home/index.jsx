@@ -25,7 +25,6 @@ function Home() {
                     </Link>
                 </div>
                 <figure>
-                    <img className='img-home' src={imageFigure} alt="Imagem1" />
                 </figure>
             </section>
             </Container>
