@@ -24,8 +24,6 @@ function Home() {
                         Saiba mais sobre nós!
                     </Link>
                 </div>
-                <figure>
-                </figure>
             </section>
             </Container>
 
